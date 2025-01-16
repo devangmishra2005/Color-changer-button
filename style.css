@@ -1,0 +1,10 @@
+*{
+    align-items: center;
+    justify-items: center;
+    margin: 10px;
+}
+div{
+    height:150px;
+    width:500px;
+    border:1px solid black;
+}
